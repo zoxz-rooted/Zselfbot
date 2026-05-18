@@ -1,0 +1,2 @@
+# Zselfbot
+Very good selfbot
